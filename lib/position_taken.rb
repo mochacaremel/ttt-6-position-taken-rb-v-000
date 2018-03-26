@@ -1,9 +1,8 @@
 def position_taken? (board, index)
-  board = []
+  board = ["" || " "]
   index = nil
 end
 
 
-  
-  # def board(" ", " ", " ", " ", " ", " ", " ", " ", " ") || board("", "", "", "", "", "", "", "", "")
 
+  # def board(" ", " ", " ", " ", " ", " ", " ", " ", " ") || board("", "", "", "", "", "", "", "", "")
