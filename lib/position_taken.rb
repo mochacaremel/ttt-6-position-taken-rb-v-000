@@ -4,7 +4,6 @@ def position_taken? (board, index)
 elsif board = [X || O]
   puts true
   end
-end
 
 
 
