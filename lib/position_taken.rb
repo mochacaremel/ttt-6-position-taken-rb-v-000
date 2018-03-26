@@ -1,5 +1,5 @@
 def position_taken? (board, index)
-  board = ["" || " " || nil]
+  board = ["" || " " || nil || X || O]
   index = false
 end
 
