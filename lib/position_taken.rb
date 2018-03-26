@@ -1,6 +1,8 @@
 def position_taken? (board, index)
   board = ["" || " " || nil]
-  index = false
+  index = false or
+  board = [X,O]
+  index = true
   end
 
 
