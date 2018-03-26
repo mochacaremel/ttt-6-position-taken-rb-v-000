@@ -1,3 +1,3 @@
 def position_taken? (board, index)
-array[""]
+array[index_number = ""]
 end
