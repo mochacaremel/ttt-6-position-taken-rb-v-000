@@ -1,7 +1,7 @@
 def position_taken? (board, index)
-  board = ["" || " " || nil || X || O]
+  board = ["" || " " || nil]
   index = false
-elsif board = [X || O]
+
   puts true
   end
 
